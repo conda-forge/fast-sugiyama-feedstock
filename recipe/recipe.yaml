@@ -1,7 +1,7 @@
 context:
   name: fast-sugiyama
   version: "0.5.3"
-  build_number: 0
+  build_number: 1
   python_min: "3.11"
 
 package:
